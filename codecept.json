@@ -1,0 +1,33 @@
+{
+  "output": "./output",
+  "helpers": {
+    "Protractor": {
+      "url": "https://www.tinkoff.ru",
+      "browser": "chrome",
+      "smartWait": 10000,
+      "waitForTimeout": 10000,
+      "waitTimeout": 30000,
+      "angular": false
+    }
+  },
+  "include": {
+    "home": "./pages/home.js",
+    "payments": "./pages/payments.js",
+    "kommunalniePlatezhi": "./pages/kommunalniePlatezhi",
+    "zhkuMoskva": "./pages/zhkuMoskva",
+    "zhkuMoskvaOplata": "./pages/zhkuMoskvaOplata"
+  },
+  "mocha": {},
+  "bootstrap": false,
+  "teardown": null,
+  "hooks": [],
+  "gherkin": {},
+  "tests": "./tests/*_test.js",
+  "timeout": 60000,
+  "name": "testTask",
+  "plugins": {
+    "allure": {
+      "enabled": true
+    }
+  }
+}
