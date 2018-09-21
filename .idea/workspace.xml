@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea2fb66b-3b0e-475f-91ed-baf77f3cb238" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/codecept.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/kommunalniePlatezhi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/payments.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/zhkuMoskva.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/zhkuMoskvaOplata.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/changeRegion_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/validationTest_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codecept.json" beforeDir="false" afterPath="$PROJECT_DIR$/codecept.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,8 +23,26 @@
       <file leaf-file-name="codecept.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/codecept.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            <state relative-caret-position="170">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadMe.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ReadMe.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="36" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -35,8 +50,8 @@
       <file leaf-file-name="validationTest_test.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/validationTest_test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="57" column="44" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+            <state relative-caret-position="323">
+              <caret line="19" column="49" lean-forward="true" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -44,8 +59,8 @@
       <file leaf-file-name="changeRegion_test.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/changeRegion_test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+            <state relative-caret-position="204">
+              <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -53,8 +68,17 @@
       <file leaf-file-name="home.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/home.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="187">
+              <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zhkuMoskvaOplata.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/zhkuMoskvaOplata.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1768">
+              <caret line="104" selection-start-line="104" selection-end-line="104" />
             </state>
           </provider>
         </entry>
@@ -62,7 +86,7 @@
       <file leaf-file-name="payments.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/payments.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
+            <state relative-caret-position="782">
               <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
             </state>
           </provider>
@@ -86,30 +110,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zhkuMoskvaOplata.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/zhkuMoskvaOplata.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="104" selection-start-line="104" selection-end-line="104" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReadMe.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ReadMe.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="48" lean-forward="true" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="package_json" />
       </list>
     </option>
   </component>
@@ -118,6 +125,8 @@
       <find>.PaymentsCategories__slider_YDJzx .IconWithText__title_474AW</find>
       <find>UILink</find>
       <find>summPaymentInput</find>
+      <find>all</find>
+      <find>allure</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -132,15 +141,18 @@
         <option value="$PROJECT_DIR$/testTask/Region_test.js" />
         <option value="$PROJECT_DIR$/Test_test.js" />
         <option value="$PROJECT_DIR$/Region_test.js" />
-        <option value="$PROJECT_DIR$/codecept.json" />
         <option value="$PROJECT_DIR$/tests/validationTest_test.js" />
-        <option value="$PROJECT_DIR$/tests/changeRegion_test.js" />
-        <option value="$PROJECT_DIR$/pages/home.js" />
         <option value="$PROJECT_DIR$/pages/payments.js" />
         <option value="$PROJECT_DIR$/pages/kommunalniePlatezhi.js" />
         <option value="$PROJECT_DIR$/pages/zhkuMoskva.js" />
         <option value="$PROJECT_DIR$/pages/zhkuMoskvaOplata.js" />
         <option value="$PROJECT_DIR$/ReadMe" />
+        <option value="$PROJECT_DIR$/package-lock.json" />
+        <option value="$PROJECT_DIR$/ReadMe.txt" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/codecept.json" />
+        <option value="$PROJECT_DIR$/tests/changeRegion_test.js" />
+        <option value="$PROJECT_DIR$/pages/home.js" />
       </list>
     </option>
   </component>
@@ -150,12 +162,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
   <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="240" />
-    <option name="y" value="48" />
+    <option name="x" value="295" />
+    <option name="y" value="53" />
     <option name="width" value="1546" />
     <option name="height" value="962" />
   </component>
@@ -170,11 +187,6 @@
             <path>
               <item name="testTask" type="b2602c69:ProjectViewProjectNode" />
               <item name="testTask" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testTask" type="462c0819:PsiDirectoryNode" />
-              <item name="output" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testTask" type="b2602c69:ProjectViewProjectNode" />
@@ -227,16 +239,30 @@
       <option name="presentableId" value="Default" />
       <updated>1536754098294</updated>
       <workItem from="1536754099744" duration="27934000" />
-      <workItem from="1536904565020" duration="61507000" />
+      <workItem from="1536904565020" duration="74079000" />
     </task>
+    <task id="LOCAL-00001" summary="add readMe and package.json scripts">
+      <created>1537351253667</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537351253667</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add readMe and package.json scripts">
+      <created>1537446442371</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537446442371</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89441000" />
+    <option name="totallyTimeSpent" value="102013000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="240" y="48" width="1546" height="962" extended-state="0" />
-    <editor active="true" />
+    <frame x="295" y="53" width="1546" height="962" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15782493" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -263,6 +289,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add readMe and package.json scripts" />
+    <option name="LAST_COMMIT_MESSAGE" value="add readMe and package.json scripts" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/codecept.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -282,38 +312,34 @@
     <entry file="file://$PROJECT_DIR$/testTask/Region_test.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/codecept.json">
+    <entry file="file://$PROJECT_DIR$/ReadMe">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        <state relative-caret-position="17">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/validationTest_test.js">
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="57" column="44" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-end-line="2177" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/home.js">
+    <entry file="file://$PROJECT_DIR$/output/78442545-df59-4edd-b50c-7bb394d428bc-testsuite.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/4b6c6d6c-0c3a-43b0-b24d-448e6f9261b3-testsuite.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="170">
+          <caret line="70" column="42" selection-start-line="70" selection-start-column="42" selection-end-line="70" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/payments.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
+        <state relative-caret-position="782">
           <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/changeRegion_test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -331,24 +357,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ReadMe">
+    <entry file="file://$PROJECT_DIR$/pages/zhkuMoskvaOplata.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+        <state relative-caret-position="1768">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/zhkuMoskvaOplata.js">
+    <entry file="file://$PROJECT_DIR$/tests/changeRegion_test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        <state relative-caret-position="204">
+          <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codecept.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/validationTest_test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="49" lean-forward="true" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ReadMe.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="48" lean-forward="true" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
+        <state relative-caret-position="255">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="36" />
         </state>
       </provider>
     </entry>

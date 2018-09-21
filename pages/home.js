@@ -1,10 +1,11 @@
 const I = actor();
 
+
 module.exports = {
 
     // setting locators
     elements: {
-        paymentLink: '.Footer__navFullSubList_1myFG [href="/payments/"]',
+        paymentLink: '.footer__Footer__navFullSubList_1oYoL [href="/payments/"]',
     },
     //Переход на tinkoff.ru
     goToHomePage() {

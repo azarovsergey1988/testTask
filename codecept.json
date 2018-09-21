@@ -17,7 +17,8 @@
     "zhkuMoskva": "./pages/zhkuMoskva",
     "zhkuMoskvaOplata": "./pages/zhkuMoskvaOplata"
   },
-  "mocha": {},
+  "mocha": {
+  },
   "bootstrap": false,
   "teardown": null,
   "hooks": [],
