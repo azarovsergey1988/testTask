@@ -8,6 +8,7 @@
       "waitForTimeout": 10000,
       "waitTimeout": 30000,
       "angular": false
+
     }
   },
   "include": {
